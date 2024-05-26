@@ -1,5 +1,6 @@
 {
   "name": "twitch-cover-dev-manzdev",
+  "homepage":"https://franmidev.github.io/twitch-cover-dev-manzdev",
   "private": true,
   "version": "0.0.0",
   "type": "module",
